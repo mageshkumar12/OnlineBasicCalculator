@@ -1,0 +1,68 @@
+#div1{
+    border: 1px solid black;
+    height: 550px;
+    width: 100%;
+    background-color: rgba(124, 84, 84, 0.8);
+    position: absolute;
+}
+
+
+h2{
+     margin-left: 200px;
+    margin-top: 50px;
+}
+#numdiv{
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 130px;
+    height: 150px;
+    width: 250px;
+    padding: 40px;
+    
+    background-color: rgb(0, 54, 50);
+}
+#btndiv{
+    border: 1px solid black;
+    width: 320px;
+    margin-left: 130px;
+    padding-top :30px; 
+    padding-bottom: 30px;
+    padding-left: 10px;
+    word-spacing: 20px;
+    background-color: rgb(83, 31, 70);
+}
+button{
+    height: 30px;
+    width: 60px;
+}
+#div2{
+    border: 1px solid black;
+    height: 550px;
+    width: 100%;
+    background-color: rgba(147, 152, 153, 0.8); 
+    display: none;  
+    position: absolute;
+}
+#div3{
+    border: 1px solid black;
+    height: 200px;
+    width: 300px;
+    margin-top: 170px;
+    margin-left: 480px;
+    text-align: center;
+}
+#returnbtn{
+    height: 50px;
+    width: 100px;
+    margin-top: 20px;
+    background-color: cadetblue;
+    color: rgb(151, 72, 72);
+}  
+#num2para,#num1para{
+    color: rgb(138, 173, 41);
+    display: none;
+}
+#dn1,#dn2{
+    /* border: 1px solid black; */
+    height: 60px;
+}
